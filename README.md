@@ -40,5 +40,5 @@ Thus, the entire problem could be solved using 2 simple step:
 
 #### Now as we run the code along the Google Chrome’s T-Rex game, the dinosaur will jump if we close our wrist and run (i.e. no input) if we release our hand.
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/AyanPahari/Play-T-Rex-Dinosaur-Game-using-Hand-Gestures/blob/master/output.JPG)
 
